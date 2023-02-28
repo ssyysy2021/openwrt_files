@@ -1,5 +1,3 @@
 このリポジトリはOpenWrtのコンパイル済みファイルなどを格納しています。
-そのため一般的には
-  GNU General Public License バージョン 2 
-が適用されます。
-さらに他のライセンスも適用される場合があります。
+ライセンスはOpenWrtに準じてください。
+https://github.com/openwrt/openwrt/blob/master/COPYING
