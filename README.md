@@ -76,6 +76,9 @@
 
 * 純正ファームウェアのアップデート画面から _openwrt-mediatek-mt7622-elecom_wrc-x3200gst3-squashfs-**factory**.bin_ を投入
 
+<br>
+<br>
+
 ## ELECOM WRC-G01
 
 ### パッチ  
