@@ -10,7 +10,7 @@
 
 * 22.03.3 (リリースビルドの同バージョンに対応)
    - [Buffalo WSR-3200AX4S](#buffalo-wsr-3200ax4s)
-   - [Buffalo WSR-2533DHP3/WSR-A2533DHP3](#buffalo-wsr-2533dhp3)
+   - [Buffalo WSR-2533DHP3/WSR-A2533DHP3](#buffalo-wsr-2533dhp3--wsr-a2533dhp3)
    - [ELECOM WRC-X3200GST3](#elecom-wrc-x3200gst3) (snapshotではサポート済)
    - [ELECOM WRC-G01](#elecom-wrc-g01)
 
@@ -55,8 +55,11 @@
 ### インストール方法
 
 &nbsp;&nbsp; (WSR-3200AX4S の手順と同様。ファイル名は適宜読み替えてください)
-<br>
+
+### インストール直後のステータス画面
+
 ![](images/wsr-2533dhp3.png)
+
 <br>
 <br>
 
@@ -86,4 +89,10 @@
 
 * 純正ファームウェアのアップデート画面から _openwrt-mediatek-mt7622-elecom_wrc-g01-squashfs-**factory**.bin_ を投入
 <br>
+
+### インストール直後のステータス画面
+
 ![](images/wrc-g01.png)
+
+<br>
+<br>
