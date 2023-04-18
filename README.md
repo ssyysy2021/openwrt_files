@@ -8,7 +8,7 @@
 
 ## 機種リスト
 
-* 22.03.3 (リリースビルドの同バージョンに対応)
+* 22.03.4 (リリースビルドの同バージョンに対応)
    - [Buffalo WSR-3200AX4S](#buffalo-wsr-3200ax4s)
    - [Buffalo WSR-2533DHP3/WSR-A2533DHP3](#buffalo-wsr-2533dhp3--wsr-a2533dhp3)
    - [ELECOM WRC-X3200GST3](#elecom-wrc-x3200gst3) (snapshotではサポート済)
@@ -20,13 +20,13 @@
 ## Buffalo WSR-3200AX4S
 
 ### パッチ  
-&nbsp;&nbsp; [patch/mt7622-buffalo_elecom_22.03.3.patch](./patch/mt7622-buffalo_elecom_22.03.3.patch)  
+&nbsp;&nbsp; [patch/mt7622-buffalo_elecom_22.03.4.patch](./patch/mt7622-buffalo_elecom_22.03.4.patch)  
   
 &nbsp;&nbsp;&nbsp; ※ このパッチは以下などを参考にしました    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/musashino-build/openwrt/tree/devadd/wsr-3200ax4s
 
 ### ビルド済みファームウェア
-&nbsp;&nbsp;&nbsp; [bin/(version)/](./bin/openwrt_22.03.3-5.10.161-1-d78c2c2d176f211691088dca5d5407af) からインストール方法により選択します  
+&nbsp;&nbsp;&nbsp; [bin/(version)/](./bin/openwrt_22.03.4-5.10.176-1-c65e538a4b309c4bc6d8132da60431be) からインストール方法により選択します  
 
 ### インストール方法
 * その1
