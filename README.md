@@ -9,10 +9,10 @@
 ## ◎ 機種リスト
 
 * 22.03.5 (リリースビルドの同バージョンに対応)
-   - [Buffalo WSR-3200AX4S](#buffalo-wsr-3200ax4s)
-   - [Buffalo WSR-2533DHP3/WSR-A2533DHP3](#buffalo-wsr-2533dhp3--wsr-a2533dhp3)
-   - [ELECOM WRC-X3200GST3](#elecom-wrc-x3200gst3) (snapshotではサポート済)
-   - [ELECOM WRC-G01](#elecom-wrc-g01)
+   - [Buffalo WSR-3200AX4S](#-buffalo-wsr-3200ax4s)
+   - [Buffalo WSR-2533DHP3/WSR-A2533DHP3](#-buffalo-wsr-2533dhp3--wsr-a2533dhp3)
+   - [ELECOM WRC-X3200GST3](#-elecom-wrc-x3200gst3) (snapshotではサポート済)
+   - [ELECOM WRC-G01](#-elecom-wrc-g01)
 
 <br>
 <br>
