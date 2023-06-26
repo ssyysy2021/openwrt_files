@@ -1,14 +1,12 @@
 ## OpenWrt 非公式ビルドファームウェア、パッチ
 
 ## ◎ 注意
----
 
 * 広範囲なテストは行っていませんので各人の責任でお使いください  
 * 法律上、無線機能を有効にすることはおすすめしません
 * OpenWrtで各機種が正式にサポートされると消えます
 
 ## ◎ 機種リスト
----
 
 
 * 23.05.0-rc1
@@ -21,7 +19,6 @@
 <br>
 
 ## ◎ 各機種のパッチ
----
 
 &nbsp;[この辺](./patch/)からてきとーにどうぞ  
 
@@ -30,7 +27,6 @@
 
 
 ## ◎ Buffalo WSR-6000AX8
----
 
 &nbsp;[ファームウェア、インストール手順など](./openwrt-23.05.0-rc1_bin/buffalo_wsr-6000ax8/)  
 
@@ -40,7 +36,6 @@
 <br>
 
 ## ◎ Buffalo WSR-3200AX4S
----
 
 &nbsp;[ファームウェア、インストール手順など](./openwrt-23.05.0-rc1_bin/buffalo_wsr-3200ax4s/)  
 
@@ -48,7 +43,6 @@
 <br>
 
 ## ◎ Buffalo WSR-2533DHP3 / WSR-A2533DHP3
----
 
 &nbsp;[WSR-2533DHP3: ファームウェア、インストール手順など](./openwrt-23.05.0-rc1_bin/buffalo_wsr-2533dhp3/)  
 &nbsp;[WSR-A2533DHP3: ファームウェア、インストール手順など](./openwrt-23.05.0-rc1_bin/buffalo_wsr-a2533dhp3)  
@@ -60,7 +54,6 @@
 <br>
 
 ## ◎ ELECOM WRC-G01
----
 
 &nbsp;[ファームウェア、インストール手順など](./openwrt-23.05.0-rc1_bin/elecom_wrc-g01/)  
 

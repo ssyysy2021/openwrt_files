@@ -1,11 +1,9 @@
 ## 対応ルーター
----
 Buffalo WSR-3200AX4S  
 Buffalo WSR-2533DHP2  
 Buffalo WSR-A2533DHP2  
 
 ## インストール方法
----
 
 ### TFTPサーバーから
 
@@ -21,6 +19,5 @@ Buffalo WSR-A2533DHP2
 &nbsp;&nbsp;(省略)
 
 ## お約束
----
 1. 無線機能の有効化は法律上オススメしません
 2. 何らかの損害が発生しても責任は負いません
