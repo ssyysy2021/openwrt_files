@@ -1,8 +1,0 @@
-4e4e92a108c646aac829c67841c55f47ca347a6221ac5cfd564acb2c0306bbe0 *config.elecom_wrc-g01
-682767d5ea37a1471b0cacfc33d9ee43e261bb2582cc1eb252f99dbe05d4eb52 *feeds.buildinfo
-bd3d88de3f76210418f34e261793e1fdc680c9c2fb9c713504952f92ae2597d2 *openwrt-23.05.0-rc1-mediatek-mt7622-elecom_wrc-g01-initramfs-kernel.bin
-efccb00e9063c643c3083fc4a13524dec2b1a2e0a1215011f141335de4509bf6 *openwrt-23.05.0-rc1-mediatek-mt7622-elecom_wrc-g01-squashfs-factory.bin
-7191ec45ee77b7005095a2d481d19359ffd0931049b275549cc4f47dc3e062c8 *openwrt-23.05.0-rc1-mediatek-mt7622-elecom_wrc-g01-squashfs-sysupgrade.bin
-e4c89def24afdc960cccd218e45fb7c8f1f0104e30e5e735243e6f058b457c2d *openwrt-23.05.0-rc1-mediatek-mt7622-elecom_wrc-g01.manifest
-00c968d51b51bdad055398f45d2f68472c7a4c17cacbf0eafd3e04670175b174 *profiles.json
-e1879dd3cd38e51be9b742b8fe8ca7d5a782bc156d3abe3a8ae5e7f960c264df *version.buildinfo
